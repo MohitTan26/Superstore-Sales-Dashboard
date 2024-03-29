@@ -35,7 +35,10 @@ The objective can be broken down into the following detailed components:
 2. Sales Peak can be observed in the Months of November and December. 
 3. Most Demanded sub-category is Phone.
 4. West Region has 10% of returns which is maximum of all regions.
-5. Most desired payment mode is Cash On Delivery. 
+5. Most desired payment mode is Cash On Delivery.
+
+![image](https://github.com/MohitTan26/Superstore-Sales-Dashboard/assets/149717491/c151d1ae-021a-4d38-a665-417fd1588108)
+
 
 # Learning
 
